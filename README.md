@@ -8,6 +8,7 @@ Welcome to my portfolio! I specialize in applying **Data Science & Automation** 
 ## 🚀 Key Projects
 
 ### 📊 1. Logistics & Operations Dashboard
+![Logistics Dashboard Preview](./Dashboard/Dashboard.png)
 * **Folder:** [`Dashboard`](./Dashboard)
 * **Tools:** Power BI, Power Query
 * **Overview:** Designed interactive dashboards to visualize key performance indicators (KPIs) for logistics operations.

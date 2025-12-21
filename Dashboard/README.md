@@ -1,6 +1,6 @@
 # 🚛 Logistics Dashboard: Import-Export Operations
 
-![Logistics Dashboard View](./Dashboard.jpg)
+![Logistics Dashboard View](./Dashboard.png)
 
 ## 📊 Project Overview
 This interactive Power BI dashboard visualizes the logistics performance of **Fruit Products Export/Import** from Thailand. It helps stakeholders monitor key metrics and optimize supply chain decisions.
